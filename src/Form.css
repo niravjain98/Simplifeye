@@ -1,0 +1,39 @@
+.page{
+    background: #f7f7f7;
+    text-align: center;
+    padding-top: 02px !important;
+    
+}
+
+.btn-primary{
+    text-align: center !important;
+    margin-left: 125px  !important;
+}
+
+.place{
+    background: #f7f7f7;
+    width:600px !important;
+    height: 7   00px !important;
+    padding-left:   100px;
+    padding-right: 100px;
+    margin-top: 0px !important;
+    margin-left: 32%  !important;
+    position: absolute;
+    margin: -35px 0 0 -35px;
+}
+.position{
+    width: 300px !important;
+}
+
+.des{
+    background-color: #3bb19b !important;
+    border-color: #3bb19b !important;
+}
+
+.first-div{
+    padding-bottom: 20px;
+}
+
+.div-design{
+    margin-top: 30px;
+}
